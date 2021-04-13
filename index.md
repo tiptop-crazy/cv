@@ -1,5 +1,4 @@
 ## Welcome to my CV Page
-![Image](images/my_photo.jpeg)
 
 
 You can use the [editor on GitHub](https://github.com/tiptop-crazy/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
